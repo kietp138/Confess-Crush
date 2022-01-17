@@ -1,17 +1,19 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Phương cute cụa em :3',
-    introDesc: `Trong tất cả các ngón chân em thích nhất là ngón chân to nhất :3`,
-    btnIntro: 'hihi:3',
-    title: 'Ra đường ăn bát bún bòa 🥰',
-    desc: 'Thịt bòa thì ít, ieu c thì nhìu :3 ',
-    btnYes: 'Thích lắm :3',
+introTitle: 'Tên người yêu bạn',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: '^^HiHi^^',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Có bit bao nhiu anh trong tnhan chờ sao c lại chọn em :3',
-    btnReply: 'Gửi cho kịt cutee',
-    reply: 'Do em cute đẹp trai hong péo :33',
-    mess: 'Em bit mò :3 🥰. Ieu c nhèo 😘😘',
-    messDesc: 'Tói nay khum lên 7x khum đi ngủ :33',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    btnReply: 'Gửi cho bạn <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/hokiet.phan.9' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
