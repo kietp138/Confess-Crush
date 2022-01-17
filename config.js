@@ -1,17 +1,20 @@
 const CONFIG = {
-titleWeb: "hihi iu Phưn",
-    introTitle: 'Phương cute cụa em :3',
-    introDesc: `Trong tất cả các loại ngón, em thích nhất là ngón chân to nhứt :3`,
-    btnIntro: 'hehe:3',
+titleWeb: "tên của crush",
+    introTitle: 'tên crush',
+    introDesc: `Lạc vào đồng cỏ xanh
+    thiên thần vai có cánh
+    cây lá thì có cành
+    em thì phải có anh <3`,
+    btnIntro: '^^hihi^^',
     title: 'Đi ăn 1 bát bún bòa 🥰',
-    desc: 'Thịt bòa thì ít, ieu c thì nhìu :33 ',
+    desc: 'Thịt bòa thì ít, ieu cậu thì nhìu :33 ',
     btnYes: 'Thích lắm :3',
     btnNo: 'Không nha :3',
-    question: 'Trong tnhan chờ có hàng trăm người sao c lại chọn em <3',
-    btnReply: 'Gửi cho kiệt cuteee <3',
-    reply: 'Do em cute đẹp trai và hong có péo :33333 ',
-    mess: 'EM bit mò 🥰. Ieu c nhèo :3 😘😘',
-    messDesc: 'Chúc C Ngủ Ngonnn, Ieu Phuongg :3',
+    question: 'Trái Đất có hơn 7 tỉ người sao lại chọn tớ :3 <3',
+    btnReply: 'Gửi bạn',
+    reply: 'Yêu thì nói k yêu cũng phải nói yêu <333333',
+    mess: 'Tớ biết mò 🥰. Yêu cậu nhiều nhiều 😘😘',
+    messDesc: 'Tối 7h tớ đón cậu đi chơi nhé :33',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/hokiet.phan.9' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/kietp138/Confess-Crush/edit/main/config.js' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
